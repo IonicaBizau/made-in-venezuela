@@ -60,7 +60,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -982,6 +983,27 @@
               "2",
               "[@mamcode](https://github.com/mamcode)/[**python-numerals**](https://github.com/mamcode/python-numerals)",
               "Módulos numerals para convertir un número en una cadena literal del número. Puede usarse para cantidades de dinero.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "9",
+              "[@josersosa](https://github.com/josersosa)/[**Programando_en_R**](https://github.com/josersosa/Programando_en_R)",
+              "Traducción al español del curso R_Programming de swirl",
               ""
             ]
           ]
