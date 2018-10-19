@@ -54,7 +54,8 @@
           "[HTML](#html)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -550,6 +551,27 @@
               "3",
               "[@AndrusGerman](https://github.com/AndrusGerman)/[**GoAssembly**](https://github.com/AndrusGerman/GoAssembly)",
               "Framework WebAssembly Spa para Go",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@angler-lang](https://github.com/angler-lang)/[**angler-lang**](https://github.com/angler-lang/angler-lang)",
+              "The Angler Functional Programming Language",
               ""
             ]
           ]
