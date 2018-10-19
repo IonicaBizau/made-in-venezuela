@@ -49,7 +49,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[CSS](#css)"
         ]
       },
       {
@@ -297,6 +298,39 @@
               "[@pedro15](https://github.com/pedro15)/[**UniMsg**](https://github.com/pedro15/UniMsg)",
               "A Message dialog & Tooltip Manager for unity 3d game engine.",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@jjyepez](https://github.com/jjyepez)/[**reto-webpack**](https://github.com/jjyepez/reto-webpack)",
+              "Reto webpack del curso de Platzi",
+              "[:arrow_upper_right:](http://www.jjyepez.com/reto-webpack)"
+            ],
+            [
+              "2",
+              "[@jrgarciadev](https://github.com/jrgarciadev)/[**bubbleiconsweb**](https://github.com/jrgarciadev/bubbleiconsweb)",
+              "This is a web page for bubbleicons JavaFX Project",
+              ""
+            ],
+            [
+              "2",
+              "[@jjyepez](https://github.com/jjyepez)/[**cmc-app**](https://github.com/jjyepez/cmc-app)",
+              "An App that consumes the CoinMarketCap.com API services",
+              "[:arrow_upper_right:](http://www.jjyepez.com/cmc-app/)"
             ]
           ]
         }
