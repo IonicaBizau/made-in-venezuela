@@ -52,7 +52,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -404,6 +405,123 @@
               "3",
               "[@DarkMatterCore](https://github.com/DarkMatterCore)/[**3ds-multinand**](https://github.com/DarkMatterCore/3ds-multinand)",
               "3DS Multi EmuNAND Creator - Allows the user to inject/extract NAND dumps to/from the storage area reserved in the SD card by tools like Gateway's Launcher.dat and EmuNAND9.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "45",
+              "[@TwistedScorpio](https://github.com/TwistedScorpio)/[**OTHire**](https://github.com/TwistedScorpio/OTHire)",
+              "OpenTibia Server for Tibia 7.72",
+              ""
+            ],
+            [
+              "14",
+              "[@brewsterl](https://github.com/brewsterl)/[**RealOTX-7.72**](https://github.com/brewsterl/RealOTX-7.72)",
+              "Real Open Tibia Server based on protocol 7.72 - Engine: OTX Server 2 - Special Thanks(s): TFS Team & Kaiser (mattyx14)",
+              ""
+            ],
+            [
+              "4",
+              "[@esmitt](https://github.com/esmitt)/[**GLFW-with-shaders**](https://github.com/esmitt/GLFW-with-shaders)",
+              "It a basic template of GLFW using GLEW to manage shaders in modern OpenGL",
+              ""
+            ],
+            [
+              "4",
+              "[@bonetblai](https://github.com/bonetblai)/[**mini-gpt**](https://github.com/bonetblai/mini-gpt)",
+              "Automatically exported from code.google.com/p/mini-gpt",
+              ""
+            ],
+            [
+              "3",
+              "[@franjaviersans](https://github.com/franjaviersans)/[**VRGLSL**](https://github.com/franjaviersans/VRGLSL)",
+              "A volume rendering using GLSL",
+              ""
+            ],
+            [
+              "3",
+              "[@bonetblai](https://github.com/bonetblai)/[**mdp-engine**](https://github.com/bonetblai/mdp-engine)",
+              "Automatically exported from code.google.com/p/mdp-engine",
+              ""
+            ],
+            [
+              "3",
+              "[@bonetblai](https://github.com/bonetblai)/[**rollout-iw**](https://github.com/bonetblai/rollout-iw)",
+              "Rollout IW implementation",
+              ""
+            ],
+            [
+              "3",
+              "[@esmitt](https://github.com/esmitt)/[**RenderPLY**](https://github.com/esmitt/RenderPLY)",
+              "Basic code to load two PLY files using GLFW",
+              ""
+            ],
+            [
+              "2",
+              "[@jennydvr](https://github.com/jennydvr)/[**StarTroupial**](https://github.com/jennydvr/StarTroupial)",
+              "Game for Computer Graphics",
+              ""
+            ],
+            [
+              "2",
+              "[@franjaviersans](https://github.com/franjaviersans)/[**GLSLProgramExample**](https://github.com/franjaviersans/GLSLProgramExample)",
+              "A example project with a GLSL program class",
+              ""
+            ],
+            [
+              "2",
+              "[@franjaviersans](https://github.com/franjaviersans)/[**VRCUDA**](https://github.com/franjaviersans/VRCUDA)",
+              "Volume rendering using CUDA",
+              ""
+            ],
+            [
+              "2",
+              "[@franjaviersans](https://github.com/franjaviersans)/[**VRCompute**](https://github.com/franjaviersans/VRCompute)",
+              "Volume rendering using Compute shader",
+              ""
+            ],
+            [
+              "2",
+              "[@franjaviersans](https://github.com/franjaviersans)/[**SkeletalAnimationLoa…**](https://github.com/franjaviersans/SkeletalAnimationLoader)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jcruzp](https://github.com/jcruzp)/[**JRobotPI**](https://github.com/jcruzp/JRobotPI)",
+              "Raspberry PI Java ME 8 Robot",
+              "[:arrow_upper_right:](https://sites.google.com/site/jrobotpi/)"
+            ],
+            [
+              "2",
+              "[@mogaal](https://github.com/mogaal)/[**vramsteg**](https://github.com/mogaal/vramsteg)",
+              "provide shell scripts with a full-featured progress indicator",
+              ""
+            ],
+            [
+              "2",
+              "[@esmitt](https://github.com/esmitt)/[**OGLCube**](https://github.com/esmitt/OGLCube)",
+              "A GLUT code to display a simple 3D Cube using OpenGL 4.0",
+              ""
+            ],
+            [
+              "2",
+              "[@bonetblai](https://github.com/bonetblai)/[**cp2fsc-and-replanner**](https://github.com/bonetblai/cp2fsc-and-replanner)",
+              "Automatically exported from code.google.com/p/cp2fsc-and-replanner",
               ""
             ]
           ]
