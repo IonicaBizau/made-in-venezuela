@@ -39,5 +39,152 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-venezuela/issues"
+  },
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "27",
+              "[@AlexR1712](https://github.com/AlexR1712)/[**messenger-to-telegra…**](https://github.com/AlexR1712/messenger-to-telegram)",
+              "Connect your Facebook Messenger Account to your Telegram Messenger and Erase the Messenger App",
+              ""
+            ],
+            [
+              "15",
+              "[@rich-97](https://github.com/rich-97)/[**snake-game-p5**](https://github.com/rich-97/snake-game-p5)",
+              "The Snake Game made with p5.js :snake::video_game:.",
+              "[:arrow_upper_right:](https://rich-97.github.io/snake-game-p5)"
+            ],
+            [
+              "12",
+              "[@jobsamuel](https://github.com/jobsamuel)/[**node-instagram-analy…**](https://github.com/jobsamuel/node-instagram-analytics)",
+              "NodeJS module for Instagram Analytics",
+              ""
+            ],
+            [
+              "10",
+              "[@aranajhonny](https://github.com/aranajhonny)/[**hyper-criollo**](https://github.com/aranajhonny/hyper-criollo)",
+              " Hyper theme based in vaporwave colors.",
+              ""
+            ],
+            [
+              "9",
+              "[@jobsamuel](https://github.com/jobsamuel)/[**venezuela-js**](https://github.com/jobsamuel/venezuela-js)",
+              "Analiza, verifica, utiliza y muestra la organización territorial de Venezuela con Javascript.",
+              ""
+            ],
+            [
+              "9",
+              "[@rich-97](https://github.com/rich-97)/[**calculator**](https://github.com/rich-97/calculator)",
+              "A calculator made with html, css and pure javascript.",
+              "[:arrow_upper_right:](https://rich-97.github.io/calculator)"
+            ],
+            [
+              "8",
+              "[@hgouveia](https://github.com/hgouveia)/[**node-downloader-help…**](https://github.com/hgouveia/node-downloader-helper)",
+              "A simple http file downloader for node.js",
+              ""
+            ],
+            [
+              "7",
+              "[@willicab](https://github.com/willicab)/[**sismos-ve**](https://github.com/willicab/sismos-ve)",
+              "Vista interactiva de los sismos en Venezuela",
+              ""
+            ],
+            [
+              "5",
+              "[@jobsamuel](https://github.com/jobsamuel)/[**mongofire**](https://github.com/jobsamuel/mongofire)",
+              "Export collections from MongoDB to Firebase",
+              ""
+            ],
+            [
+              "5",
+              "[@rich-97](https://github.com/rich-97)/[**req-ajax**](https://github.com/rich-97/req-ajax)",
+              "Standalone library for ajax requests.",
+              ""
+            ],
+            [
+              "4",
+              "[@aranajhonny](https://github.com/aranajhonny)/[**ig-upload**](https://github.com/aranajhonny/ig-upload)",
+              "A tiny command line tool for upload images to instagram.",
+              ""
+            ],
+            [
+              "4",
+              "[@chamini2](https://github.com/chamini2)/[**hapi-auth-ip-whiteli…**](https://github.com/chamini2/hapi-auth-ip-whitelist)",
+              "Hapi.js plugin for authentication scheme of accepting connections only from certain IPs",
+              ""
+            ],
+            [
+              "3",
+              "[@aranajhonny](https://github.com/aranajhonny)/[**zogam**](https://github.com/aranajhonny/zogam)",
+              "[ WIP ] Simple CRM & ERP for http://gandocam.com.ve/ built with Laravel.",
+              ""
+            ],
+            [
+              "3",
+              "[@jobsamuel](https://github.com/jobsamuel)/[**ciudades**](https://github.com/jobsamuel/ciudades)",
+              "Ciudades y Estados Venezolanos renderizados con React.",
+              "[:arrow_upper_right:](http://jobsamuel.github.io/ciudades/)"
+            ],
+            [
+              "2",
+              "[@hgouveia](https://github.com/hgouveia)/[**html5multiplayer**](https://github.com/hgouveia/html5multiplayer)",
+              "A simple multiplayer game using HTML5 Canvas in conjuction with nodejs",
+              ""
+            ],
+            [
+              "2",
+              "[@rich-97](https://github.com/rich-97)/[**todo-app**](https://github.com/rich-97/todo-app)",
+              "A simple todo app made with pure javascript using nodejs, ajax and mongodb  :white_check_mark:.",
+              ""
+            ],
+            [
+              "2",
+              "[@rich-97](https://github.com/rich-97)/[**todo-app-php**](https://github.com/rich-97/todo-app-php)",
+              "Another todo-app make with backbone.js and PHP.",
+              ""
+            ],
+            [
+              "2",
+              "[@jobsamuel](https://github.com/jobsamuel)/[**messenger**](https://github.com/jobsamuel/messenger)",
+              "A Facebook Messenger Bot demo",
+              ""
+            ],
+            [
+              "2",
+              "[@JoaquinAraujo](https://github.com/JoaquinAraujo)/[**weather-app**](https://github.com/JoaquinAraujo/weather-app)",
+              "Application that shows the weather in the five most important cities of Venezuela",
+              "[:arrow_upper_right:](https://joaquinaraujo.github.io/weather-app/)"
+            ],
+            [
+              "2",
+              "[@rich-97](https://github.com/rich-97)/[**todo-app-plus**](https://github.com/rich-97/todo-app-plus)",
+              "Another todo-app make with backbone, express & sequelize.",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
   }
 }
