@@ -58,7 +58,8 @@
           "[Haskell](#haskell)",
           "[Lua](#lua)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -663,6 +664,159 @@
               "[@joelgomezb](https://github.com/joelgomezb)/[**kakapo**](https://github.com/joelgomezb/kakapo)",
               "Software to convert document on audio file",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "229",
+              "[@Th3-822](https://github.com/Th3-822)/[**rapidleech**](https://github.com/Th3-822/rapidleech)",
+              "",
+              "[:arrow_upper_right:](http://rapidleech.com/forum/)"
+            ],
+            [
+              "152",
+              "[@cabrerahector](https://github.com/cabrerahector)/[**wordpress-popular-po…**](https://github.com/cabrerahector/wordpress-popular-posts)",
+              "WordPress Popular Posts - A highly customizable WordPress widget that displays your most popular posts",
+              "[:arrow_upper_right:](https://wordpress.org/plugins/wordpress-popular-posts/)"
+            ],
+            [
+              "98",
+              "[@cobisja](https://github.com/cobisja)/[**tad-php**](https://github.com/cobisja/tad-php)",
+              "PHP Library for ZK Time & Attendance Devices",
+              ""
+            ],
+            [
+              "24",
+              "[@cobisja](https://github.com/cobisja)/[**boothelp**](https://github.com/cobisja/boothelp)",
+              "PHP Helpers for Bootstrap",
+              ""
+            ],
+            [
+              "22",
+              "[@joserafael](https://github.com/joserafael)/[**venezuela**](https://github.com/joserafael/venezuela)",
+              "Estados, municipios, ciudades y parroquias de Venezuela en Mysql para cakephp o cualquier otro framework que use Active Record",
+              "[:arrow_upper_right:](http://www.joserafael.com.ve)"
+            ],
+            [
+              "16",
+              "[@joseayram](https://github.com/joseayram)/[**utils**](https://github.com/joseayram/utils)",
+              "Librerías de utilidad general",
+              ""
+            ],
+            [
+              "15",
+              "[@manuelj555](https://github.com/manuelj555)/[**backend_kumbia**](https://github.com/manuelj555/backend_kumbia)",
+              "App base hecha con kumbiaphp beta 2",
+              ""
+            ],
+            [
+              "12",
+              "[@carlosjfernandes](https://github.com/carlosjfernandes)/[**curso-cf-php-poo**](https://github.com/carlosjfernandes/curso-cf-php-poo)",
+              "Archivos usados durante el curso de POO en PHP para codigofacilito",
+              ""
+            ],
+            [
+              "6",
+              "[@sinner](https://github.com/sinner)/[**PhpseclibBundle**](https://github.com/sinner/PhpseclibBundle)",
+              "PHPSecLib bundle for Symfony is the known library PHPSecLib structured for be a Symfony2 bundle.",
+              ""
+            ],
+            [
+              "5",
+              "[@oyepez003](https://github.com/oyepez003)/[**YepsuaGeneratorBundl…**](https://github.com/oyepez003/YepsuaGeneratorBundle)",
+              "YepsuaGeneratorBundle: The RICH CRUD Generator for Symfony2.",
+              ""
+            ],
+            [
+              "5",
+              "[@oyepez003](https://github.com/oyepez003)/[**smartwig**](https://github.com/oyepez003/smartwig)",
+              "Ultimate Components Extension for Twig. ",
+              "[:arrow_upper_right:](http://smartwig.yepsua.com/web/)"
+            ],
+            [
+              "5",
+              "[@Skatox](https://github.com/Skatox)/[**CrudGen**](https://github.com/Skatox/CrudGen)",
+              "A CRUD generator plugin for phpPgAdmin",
+              ""
+            ],
+            [
+              "4",
+              "[@manuelj555](https://github.com/manuelj555)/[**UploadExcelBundle**](https://github.com/manuelj555/UploadExcelBundle)",
+              "Bundle para la subida y validación de archivos excel",
+              ""
+            ],
+            [
+              "4",
+              "[@manuelj555](https://github.com/manuelj555)/[**sf-microkernel-vuejs**](https://github.com/manuelj555/sf-microkernel-vuejs)",
+              "Practicando con VueJS y el MicrokernelTrait de Symfony 3",
+              ""
+            ],
+            [
+              "3",
+              "[@oyepez003](https://github.com/oyepez003)/[**jQuery4PHP**](https://github.com/oyepez003/jQuery4PHP)",
+              "jQuery4PHP ( jQuery for PHP ) is a PHP 5 library. Makes easy writing javascript code (jQuery syntax) using PHP objects. Develops Rich Internet Applications in an easy way without having to know javascript language with the help and power of jQuery. ",
+              ""
+            ],
+            [
+              "3",
+              "[@manuelj555](https://github.com/manuelj555)/[**DataTable**](https://github.com/manuelj555/DataTable)",
+              "Lib para crear tablas html con el resultado de una consulta ActiveRecord",
+              ""
+            ],
+            [
+              "2",
+              "[@styp152](https://github.com/styp152)/[**SAEC-**](https://github.com/styp152/SAEC-)",
+              "Sistema Administrativo para Control de Inventario y Facturación",
+              "[:arrow_upper_right:](saec)"
+            ],
+            [
+              "2",
+              "[@oyepez003](https://github.com/oyepez003)/[**YepsuaCommonsBundle**](https://github.com/oyepez003/YepsuaCommonsBundle)",
+              "YepsuaCommonsBundle: Yepsua Commons and Utils for Sf2 Framework",
+              ""
+            ],
+            [
+              "2",
+              "[@carlosjfernandes](https://github.com/carlosjfernandes)/[**curso-laravel-princi…**](https://github.com/carlosjfernandes/curso-laravel-principiantes)",
+              "Archivos fuente del curso de Laravel para principiantes",
+              ""
+            ],
+            [
+              "2",
+              "[@manuelj555](https://github.com/manuelj555)/[**WsseServerBundle**](https://github.com/manuelj555/WsseServerBundle)",
+              "Bundle para la autenticación de servidores soap usando WSSE",
+              ""
+            ],
+            [
+              "2",
+              "[@manuelj555](https://github.com/manuelj555)/[**foro-microkerneltrai…**](https://github.com/manuelj555/foro-microkerneltrait)",
+              "Aplicación de prueba del MicroKernelTrait de Symfony http://manuelj555.github.io/2016/08/14/f…",
+              ""
+            ],
+            [
+              "2",
+              "[@manuelj555](https://github.com/manuelj555)/[**ManuelTranslationBun…**](https://github.com/manuelj555/ManuelTranslationBundle)",
+              "Bundle que permite la edición de etiquetas de traducción desde la Base de datos",
+              ""
+            ],
+            [
+              "2",
+              "[@marcoadasilvaa](https://github.com/marcoadasilvaa)/[**yii2-git**](https://github.com/marcoadasilvaa/yii2-git)",
+              "Display repositories GIT with Yii2 framework",
+              "[:arrow_upper_right:](https://github.com/markmarco16/yii2-git)"
             ]
           ]
         }
