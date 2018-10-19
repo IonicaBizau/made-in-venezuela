@@ -53,7 +53,8 @@
           "[CSS](#css)",
           "[HTML](#html)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[Go](#go)"
         ]
       },
       {
@@ -522,6 +523,33 @@
               "2",
               "[@bonetblai](https://github.com/bonetblai)/[**cp2fsc-and-replanner**](https://github.com/bonetblai/cp2fsc-and-replanner)",
               "Automatically exported from code.google.com/p/cp2fsc-and-replanner",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "348",
+              "[@shixzie](https://github.com/shixzie)/[**nlp**](https://github.com/shixzie/nlp)",
+              "[UNMANTEINED] Extract values from strings and fill your structs with nlp.",
+              ""
+            ],
+            [
+              "3",
+              "[@AndrusGerman](https://github.com/AndrusGerman)/[**GoAssembly**](https://github.com/AndrusGerman/GoAssembly)",
+              "Framework WebAssembly Spa para Go",
               ""
             ]
           ]
