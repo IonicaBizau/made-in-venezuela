@@ -51,7 +51,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[HTML](#html)"
+          "[HTML](#html)",
+          "[C](undefined)"
         ]
       },
       {
@@ -364,6 +365,45 @@
               "2",
               "[@asosab](https://github.com/asosab)/[**asosab.github.io**](https://github.com/asosab/asosab.github.io)",
               "Pedazos de código de uso cotidiano, apuntes sobre lenguajes de programación, bases de datos y tecnologías de la información",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "22",
+              "[@DarkMatterCore](https://github.com/DarkMatterCore)/[**bluedump-mod**](https://github.com/DarkMatterCore/bluedump-mod)",
+              "This is a modification of BlueDump with USB support, full hardware access through AHB, enhanced WAD dumping capabilities and content.bin -> WAD conversion.",
+              ""
+            ],
+            [
+              "6",
+              "[@R3mmurd](https://github.com/R3mmurd)/[**ULATeaching**](https://github.com/R3mmurd/ULATeaching)",
+              "Sample codes used to teach at Universidad de Los Andes, Mérida, Venezuela",
+              ""
+            ],
+            [
+              "3",
+              "[@DarkMatterCore](https://github.com/DarkMatterCore)/[**sbn64**](https://github.com/DarkMatterCore/sbn64)",
+              "Simple Byteswapper for N64 Saves",
+              ""
+            ],
+            [
+              "3",
+              "[@DarkMatterCore](https://github.com/DarkMatterCore)/[**3ds-multinand**](https://github.com/DarkMatterCore/3ds-multinand)",
+              "3DS Multi EmuNAND Creator - Allows the user to inject/extract NAND dumps to/from the storage area reserved in the SD card by tools like Gateway's Launcher.dat and EmuNAND9.",
               ""
             ]
           ]
