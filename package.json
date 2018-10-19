@@ -56,7 +56,8 @@
           "[C++](#c-2)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -606,6 +607,33 @@
               "2",
               "[@Residays](https://github.com/Residays)/[**epidemic-prototype**](https://github.com/Residays/epidemic-prototype)",
               "Prototype of a future open source game.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@jorgevmendoza](https://github.com/jorgevmendoza)/[**UITableView-KeyBoard**](https://github.com/jorgevmendoza/UITableView-KeyBoard)",
+              "A simple solution for solving issues with the iPhone Keyboard and a UITableView with several text fields",
+              ""
+            ],
+            [
+              "2",
+              "[@jorgevmendoza](https://github.com/jorgevmendoza)/[**scroll-Hide**](https://github.com/jorgevmendoza/scroll-Hide)",
+              "A simple implementation of UITableView that hides all the visual elements of the UIViewController while is scrolling",
               ""
             ]
           ]
