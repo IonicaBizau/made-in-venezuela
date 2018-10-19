@@ -61,7 +61,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -1004,6 +1005,57 @@
               "9",
               "[@josersosa](https://github.com/josersosa)/[**Programando_en_R**](https://github.com/josersosa/Programando_en_R)",
               "Traducción al español del curso R_Programming de swirl",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "39",
+              "[@rrodrigu3z](https://github.com/rrodrigu3z)/[**rails_jqtouch**](https://github.com/rrodrigu3z/rails_jqtouch)",
+              "A Rails plugin to wrap some functionality of jQTouch",
+              ""
+            ],
+            [
+              "4",
+              "[@albertogg](https://github.com/albertogg)/[**carpetbomb**](https://github.com/albertogg/carpetbomb)",
+              "Markdown templates (with .erb) for Ruby on Rails using Redcarpet gem.",
+              ""
+            ],
+            [
+              "4",
+              "[@xploshioOn](https://github.com/xploshioOn)/[**clickatellsend**](https://github.com/xploshioOn/clickatellsend)",
+              "You can use almost every function of the clickatell API in a simple way",
+              ""
+            ],
+            [
+              "2",
+              "[@nerionavea](https://github.com/nerionavea)/[**SMSGateway**](https://github.com/nerionavea/SMSGateway)",
+              "A ruby implementation of https://smsgateway.me API",
+              ""
+            ],
+            [
+              "2",
+              "[@rafaelje](https://github.com/rafaelje)/[**bullhorn-fastlane**](https://github.com/rafaelje/bullhorn-fastlane)",
+              "Send message to telegram with @bullhorn_bot on fastlane",
+              ""
+            ],
+            [
+              "2",
+              "[@albertogg](https://github.com/albertogg)/[**sinatra-url-shortene…**](https://github.com/albertogg/sinatra-url-shortener-api)",
+              "Simple Sinatra API for short URLs.",
               ""
             ]
           ]
