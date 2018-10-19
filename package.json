@@ -48,7 +48,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -238,6 +239,63 @@
               "2",
               "[@jestevez](https://github.com/jestevez)/[**blackjack21**](https://github.com/jestevez/blackjack21)",
               "El Blackjack, también llamado veintiuno, es un juego de cartas, propio de los casinos con una o más barajas inglesas de 52 cartas sin los comodines, que consiste en sumar un valor lo más próximo a 21 pero sin pasarse.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "9",
+              "[@jafuentest](https://github.com/jafuentest)/[**totem**](https://github.com/jafuentest/totem)",
+              "Proyecto de Desarrollo del Software, Semestre Marzo-Julio 2015",
+              ""
+            ],
+            [
+              "5",
+              "[@Adversities](https://github.com/Adversities)/[**Nutdeep**](https://github.com/Adversities/Nutdeep)",
+              "Nutdeep - A light memory manager library made by C# lovers",
+              "[:arrow_upper_right:](https://adversities.github.io/Nutdeep/)"
+            ],
+            [
+              "2",
+              "[@Adversities](https://github.com/Adversities)/[**Tanji**](https://github.com/Adversities/Tanji)",
+              "Habbo Hotel Packet(Logger/Manipulator)",
+              ""
+            ],
+            [
+              "2",
+              "[@Wgil](https://github.com/Wgil)/[**2048clone**](https://github.com/Wgil/2048clone)",
+              "Clone of the 2048 famous game.",
+              ""
+            ],
+            [
+              "2",
+              "[@pedro15](https://github.com/pedro15)/[**UniToolkit**](https://github.com/pedro15/UniToolkit)",
+              "Serialization,encryption and other utility classes for helping unity 3d game development",
+              ""
+            ],
+            [
+              "2",
+              "[@pedro15](https://github.com/pedro15)/[**GoRecycler**](https://github.com/pedro15/GoRecycler)",
+              "Object Pool Manager for unity3d game engine",
+              ""
+            ],
+            [
+              "2",
+              "[@pedro15](https://github.com/pedro15)/[**UniMsg**](https://github.com/pedro15/UniMsg)",
+              "A Message dialog & Tooltip Manager for unity 3d game engine.",
               ""
             ]
           ]
