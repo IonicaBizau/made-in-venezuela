@@ -62,7 +62,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -1056,6 +1057,153 @@
               "2",
               "[@albertogg](https://github.com/albertogg)/[**sinatra-url-shortene…**](https://github.com/albertogg/sinatra-url-shortener-api)",
               "Simple Sinatra API for short URLs.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "16",
+              "[@tigerlinux](https://github.com/tigerlinux)/[**tigerlinux-extra-rec…**](https://github.com/tigerlinux/tigerlinux-extra-recipes)",
+              "",
+              ""
+            ],
+            [
+              "16",
+              "[@tigerlinux](https://github.com/tigerlinux)/[**openstack-mitaka-ins…**](https://github.com/tigerlinux/openstack-mitaka-installer-centos7)",
+              "OpenStack MITAKA Semi-Automated installer for Centos 7",
+              ""
+            ],
+            [
+              "12",
+              "[@tigerlinux](https://github.com/tigerlinux)/[**openstack-ocata-inst…**](https://github.com/tigerlinux/openstack-ocata-installer-centos7)",
+              "Unattended/Semi-Automated OpenStack OCATA Installer for Centos 7",
+              ""
+            ],
+            [
+              "7",
+              "[@tigerlinux](https://github.com/tigerlinux)/[**openstack-ocata-inst…**](https://github.com/tigerlinux/openstack-ocata-installer-ubuntu1604lts)",
+              "Unattended/Semi-Automated OpenStack OCATA Installer for Ubuntu 16.04lts",
+              ""
+            ],
+            [
+              "7",
+              "[@tigerlinux](https://github.com/tigerlinux)/[**openstack-kilo-insta…**](https://github.com/tigerlinux/openstack-kilo-installer-centos7)",
+              "OpenStack KILO Semi-Automated Installer for Centos 7",
+              ""
+            ],
+            [
+              "7",
+              "[@tigerlinux](https://github.com/tigerlinux)/[**openstack-mitaka-ins…**](https://github.com/tigerlinux/openstack-mitaka-installer-ubuntu1604lts)",
+              "OpenStack MITAKA Semi-Automated installer for Ubuntu 16.04lts ",
+              ""
+            ],
+            [
+              "7",
+              "[@tigerlinux](https://github.com/tigerlinux)/[**openstack-liberty-in…**](https://github.com/tigerlinux/openstack-liberty-installer-ubuntu1404lts)",
+              "OpenStack LIBERTY Semi-Automated Installer for Ubuntu Server 14.04lts",
+              ""
+            ],
+            [
+              "5",
+              "[@tigerlinux](https://github.com/tigerlinux)/[**openstack-newton-ins…**](https://github.com/tigerlinux/openstack-newton-installer-centos7)",
+              "Unattended/Semi-Automated OpenStack NEWTON Installer for Centos 7",
+              ""
+            ],
+            [
+              "4",
+              "[@tigerlinux](https://github.com/tigerlinux)/[**openstack-liberty-in…**](https://github.com/tigerlinux/openstack-liberty-installer-centos7)",
+              "OpenStack LIBERTY Semi-Automated Installer for Centos 7",
+              ""
+            ],
+            [
+              "4",
+              "[@tigerlinux](https://github.com/tigerlinux)/[**openstack-mitaka-ins…**](https://github.com/tigerlinux/openstack-mitaka-installer-ubuntu1404lts)",
+              "OpenStack MITAKA Semi-Automated installer for Ubuntu 14.04lts",
+              ""
+            ],
+            [
+              "4",
+              "[@phenobarbital](https://github.com/phenobarbital)/[**arepalinux-script**](https://github.com/phenobarbital/arepalinux-script)",
+              "Arepalinux script base (install a Debian GNU/Linux secure server/workstation)",
+              ""
+            ],
+            [
+              "4",
+              "[@e1th0r](https://github.com/e1th0r)/[**seeddms-install**](https://github.com/e1th0r/seeddms-install)",
+              "Install script for seeddms",
+              ""
+            ],
+            [
+              "3",
+              "[@phenobarbital](https://github.com/phenobarbital)/[**lxc-tools**](https://github.com/phenobarbital/lxc-tools)",
+              "Xen-tools-like debian template for LXC containers",
+              ""
+            ],
+            [
+              "2",
+              "[@inukaze](https://github.com/inukaze)/[**maestro**](https://github.com/inukaze/maestro)",
+              "Repositorio Principal",
+              ""
+            ],
+            [
+              "2",
+              "[@phenobarbital](https://github.com/phenobarbital)/[**debian-bastion**](https://github.com/phenobarbital/debian-bastion)",
+              "Aseguramiento basico de Debian GNU/Linux",
+              ""
+            ],
+            [
+              "2",
+              "[@phenobarbital](https://github.com/phenobarbital)/[**easy-ldap**](https://github.com/phenobarbital/easy-ldap)",
+              "Easy installation and configuration of OpenLDAP",
+              ""
+            ],
+            [
+              "2",
+              "[@linuxshark](https://github.com/linuxshark)/[**Asterisk-CentOS7-Ins…**](https://github.com/linuxshark/Asterisk-CentOS7-Install)",
+              "This is an autoinstall asterisk script",
+              ""
+            ],
+            [
+              "2",
+              "[@tigerlinux](https://github.com/tigerlinux)/[**openstack-queens-ins…**](https://github.com/tigerlinux/openstack-queens-installer-centos7)",
+              "OpenStack Release 17 (QUEENS) Automated installer for Centos 7",
+              ""
+            ],
+            [
+              "2",
+              "[@tigerlinux](https://github.com/tigerlinux)/[**openstack-icehouse-i…**](https://github.com/tigerlinux/openstack-icehouse-installer-ubuntu1404lts)",
+              "Instalador semiautomatizado para OpenStack ICEHOUSE sobre Ubuntu Server 14.04LTS",
+              ""
+            ],
+            [
+              "2",
+              "[@tigerlinux](https://github.com/tigerlinux)/[**openstack-pike-insta…**](https://github.com/tigerlinux/openstack-pike-installer-centos7)",
+              "OpenStack Release 16 (PIKE) Automated installer for Centos 7",
+              ""
+            ],
+            [
+              "2",
+              "[@tigerlinux](https://github.com/tigerlinux)/[**openstack-juno-insta…**](https://github.com/tigerlinux/openstack-juno-installer-ubuntu14)",
+              "Instalador desatendido (semi-automatizado) para OpenStack JUNO sobre UBUNTU 14",
+              ""
+            ],
+            [
+              "2",
+              "[@tigerlinux](https://github.com/tigerlinux)/[**openstack-kilo-insta…**](https://github.com/tigerlinux/openstack-kilo-installer-ubuntu1404lts)",
+              "OpenStack KILO Semi-Automated Installer for Ubuntu Server 14.04lts",
               ""
             ]
           ]
