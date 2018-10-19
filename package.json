@@ -50,7 +50,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -331,6 +332,39 @@
               "[@jjyepez](https://github.com/jjyepez)/[**cmc-app**](https://github.com/jjyepez/cmc-app)",
               "An App that consumes the CoinMarketCap.com API services",
               "[:arrow_upper_right:](http://www.jjyepez.com/cmc-app/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "7",
+              "[@aitbw](https://github.com/aitbw)/[**af_maracay**](https://github.com/aitbw/af_maracay)",
+              "Web application for the management of the administrative tasks of Alliance Française Maracay",
+              ""
+            ],
+            [
+              "4",
+              "[@gian88](https://github.com/gian88)/[**django-ckeditor-amaz…**](https://github.com/gian88/django-ckeditor-amazon-s3)",
+              "Django Ckeditor Amazon S3",
+              ""
+            ],
+            [
+              "2",
+              "[@asosab](https://github.com/asosab)/[**asosab.github.io**](https://github.com/asosab/asosab.github.io)",
+              "Pedazos de código de uso cotidiano, apuntes sobre lenguajes de programación, bases de datos y tecnologías de la información",
+              ""
             ]
           ]
         }
