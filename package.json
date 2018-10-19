@@ -55,7 +55,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -572,6 +573,39 @@
               "3",
               "[@angler-lang](https://github.com/angler-lang)/[**angler-lang**](https://github.com/angler-lang/angler-lang)",
               "The Angler Functional Programming Language",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@edumntg](https://github.com/edumntg)/[**Xenobot**](https://github.com/edumntg/Xenobot)",
+              "Xenobot scripts and settings",
+              ""
+            ],
+            [
+              "2",
+              "[@Residays](https://github.com/Residays)/[**cooperative-announce…**](https://github.com/Residays/cooperative-announcer)",
+              "A Don't Starve Together mod that announces important information to keep players updated.",
+              "[:arrow_upper_right:](http://steamcommunity.com/sharedfiles/filedetails/?id=909356367)"
+            ],
+            [
+              "2",
+              "[@Residays](https://github.com/Residays)/[**epidemic-prototype**](https://github.com/Residays/epidemic-prototype)",
+              "Prototype of a future open source game.",
               ""
             ]
           ]
