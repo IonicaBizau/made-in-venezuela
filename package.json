@@ -47,7 +47,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -180,6 +181,63 @@
               "2",
               "[@rich-97](https://github.com/rich-97)/[**todo-app-plus**](https://github.com/rich-97/todo-app-plus)",
               "Another todo-app make with backbone, express & sequelize.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "7",
+              "[@jestevez](https://github.com/jestevez)/[**ethereum-java-wallet**](https://github.com/jestevez/ethereum-java-wallet)",
+              "Un ejemplo de monedero escrito en Java usando Web3j",
+              ""
+            ],
+            [
+              "4",
+              "[@Valtiel](https://github.com/Valtiel)/[**EasyFuzzy**](https://github.com/Valtiel/EasyFuzzy)",
+              "Java's library to teach Fuzzy Logic ",
+              ""
+            ],
+            [
+              "3",
+              "[@Ricardo96r](https://github.com/Ricardo96r)/[**Simulador-de-memoria…**](https://github.com/Ricardo96r/Simulador-de-memoria-virtual)",
+              "Simulador de memoria virtual a través de paginación",
+              ""
+            ],
+            [
+              "3",
+              "[@jvmartinez](https://github.com/jvmartinez)/[**utilsDialog**](https://github.com/jvmartinez/utilsDialog)",
+              "It is a useful tool for dialogue.",
+              ""
+            ],
+            [
+              "2",
+              "[@m-salcedo](https://github.com/m-salcedo)/[**Cocos2D**](https://github.com/m-salcedo/Cocos2D)",
+              "Android + Cocos2d",
+              ""
+            ],
+            [
+              "2",
+              "[@JMEspiz](https://github.com/JMEspiz)/[**Practicas-Ovi-2015**](https://github.com/JMEspiz/Practicas-Ovi-2015)",
+              "Repo para subir ejercicios y practicas para la OVI interna IUTVAL 2015",
+              ""
+            ],
+            [
+              "2",
+              "[@jestevez](https://github.com/jestevez)/[**blackjack21**](https://github.com/jestevez/blackjack21)",
+              "El Blackjack, también llamado veintiuno, es un juego de cartas, propio de los casinos con una o más barajas inglesas de 52 cartas sin los comodines, que consiste en sumar un valor lo más próximo a 21 pero sin pasarse.",
               ""
             ]
           ]
